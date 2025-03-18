@@ -1,6 +1,6 @@
 ---
 sidebar_label: Custom Pipelines
-sidebar_position: 5
+sidebar_position: 7
 ---
 
 # Custom Pipelines in Kubeflow
