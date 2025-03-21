@@ -19,8 +19,14 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/concepts/core-concepts">
+            to="/docs/concepts/core-concepts"
+            style={{ marginRight: '10px' }}>
             Get Started ⏱️
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://www.youtube.com/playlist?list=PL4_PKdrdGYJDmVcteeUqssnTIP9btUXlG">
+            Watch Videos 📺
           </Link>
         </div>
       </div>

@@ -21,6 +21,13 @@ In Kubeflow, a pipeline is a sequence of steps or components that automate and o
 
 ## How to run a Pipeline in Kubeflow?
 
+<div align="center">
+  
+[![Watch the Case Study Video](https://img.youtube.com/vi/arP1y2DqECw/0.jpg)](https://youtu.be/arP1y2DqECw)  
+*Click to watch Running Kubeflow Pipelines*
+
+</div>  
+
 ### Step 1: Access Kubeflow Pipelines UI
 1. Open your web browser and navigate to the Kubeflow Pipelines UI. This URL is typically provided by your Kubeflow installation.
 

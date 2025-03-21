@@ -10,3 +10,10 @@ sidebar_position: 1
 In fact, new instances of any of the our [core concepts](../../concepts/core-concepts/index.md) can be created through Websat Planckster, allowing us to use an LLM to interact with the data via a chat interface.
 
 So check out [our video](https://youtu.be/5tKNrb03Pr0) to start exploring Websat Planckster!
+
+<div align="center">
+  
+[![Introductory Video](https://img.youtube.com/vi/5tKNrb03Pr0/0.jpg)](https://youtu.be/5tKNrb03Pr0)
+
+</div>
+
