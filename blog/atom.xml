@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dream-aim-deliver.github.io/planckster-docs/blog</id>
-    <title>Satellite Data Augmentation Blog</title>
+    <title>SkyPulse - Satellite Data Augmentation Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dream-aim-deliver.github.io/planckster-docs/blog"/>
-    <subtitle>Satellite Data Augmentation Blog</subtitle>
+    <subtitle>SkyPulse - Satellite Data Augmentation Blog</subtitle>
     <icon>https://dream-aim-deliver.github.io/planckster-docs/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
