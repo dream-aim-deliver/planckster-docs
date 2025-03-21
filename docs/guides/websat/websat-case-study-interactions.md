@@ -14,7 +14,7 @@ Before proceeding, ensure that you have:
 
 Explore the following case studies to understand different data pipeline implementations:
 
-- **[Sentinel-5P](../kubeFlow/sentinel-pipeline-reference)** – Atmospheric monitoring and analysis  
+- **[Sentinel-5P](../kubeflow/sentinel-pipeline-reference)** – Atmospheric monitoring and analysis  
 - **[Climate Monitoring](../kubeflow/climate-monitoring-pipeline-reference)** – Climate data processing and trend analysis  
 - **[Swiss Grid](../kubeflow/swissgrid-pipeline-reference)** – Power grid monitoring and optimization  
 
