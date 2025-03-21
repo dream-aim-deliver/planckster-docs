@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Satellite Data Augmentation',
+  title: 'SkyPulse - Satellite Data Augmentation',
   tagline: 'Planckster Bible',
   favicon: 'img/favicon.ico',
 
